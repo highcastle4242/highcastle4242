@@ -1,4 +1,4 @@
-### Front-end Developer 👋
+### Front-end Developer
 
 - 🌱 I’m currently learning Javascript / React / Node.js 
 <!-- 👯 I’m looking to collaborate on ...
